@@ -3,5 +3,7 @@ const food = {
   tamara: [
     'pulled pork pernil arepa',
     'chupe soup'
-  ]
+  ],
+  charlie: 'crispy chicken plato',
+  sea: 'vegetariana arepas',
 };
