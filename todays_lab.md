@@ -8,3 +8,5 @@
  - Display data on page. Any way you see fit.
 
  - [Stefano and Lauren](https://github.com/StefanoDeVuono/todays_lab)
+ - [alden and cfboyd](https://github.com/miamiww/knightsFU)
+
