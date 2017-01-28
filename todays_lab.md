@@ -10,3 +10,4 @@
  - [Stefano and Lauren](https://github.com/StefanoDeVuono/todays_lab)
  - [alden and cfboyd](https://github.com/miamiww/knightsFU)
  - [Alex and Ripley](https://github.com/apenman/CCI/tree/master/28jan)
+ - [Lark and Tchu](https://github.com/sabrichu/2017-01-28-lab)
