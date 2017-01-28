@@ -1,0 +1,8 @@
+### Today's lab
+ - Make HTML page, include two libraries
+ - Create two data structures: one object, one array
+ - Choose which you want to use for what
+ - Data represents: ???
+ - For the array. Create our own version of `forEach` (hint: prototype)
+ - ASK QUESTIONS. CHECK IN WITH EACH OTHER, BOTH IN AND OUT OF GROUP.
+ - Display data on page. Any way you see fit.
