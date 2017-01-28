@@ -1,5 +1,7 @@
 const food = {
   stefano: 'spicy chicken arepas',
+  VCR: 'Plato Vegetariana',
+  shared: ['2 baskets yuca fries',],
   christian : 'N/A - watching my lady figure',
   alden: 'sweet yellow shuli arepa',
   tamara: [
