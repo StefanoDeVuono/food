@@ -6,3 +6,5 @@
  - For the array. Create our own version of `forEach` (hint: prototype)
  - ASK QUESTIONS. CHECK IN WITH EACH OTHER, BOTH IN AND OUT OF GROUP.
  - Display data on page. Any way you see fit.
+
+ - [Stefano and Lauren](https://github.com/StefanoDeVuono/todays_lab)
