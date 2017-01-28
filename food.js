@@ -12,4 +12,5 @@ const food = {
   charlie: 'crispy chicken plato',
   sea: 'vegetariana arepas',
   lauren: 'garlic coconut rice and shredded beef arepa',
+  joshua: 'mild tea'
 };
