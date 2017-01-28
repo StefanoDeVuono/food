@@ -11,6 +11,6 @@ const food = {
   ],
   charlie: 'crispy chicken plato',
   sea: 'vegetariana arepas',
-  lauren: 'garlic coconut rice and shredded beef arepa',
+  lauren: ['garlic coconut rice', 'shredded beef arepa'],
   rips: 'classic Shuli arepas',
 };
