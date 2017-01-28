@@ -8,5 +8,5 @@
  - Display data on page. Any way you see fit.
 
  - [Stefano and Lauren](https://github.com/StefanoDeVuono/todays_lab)
- - [alden and cfboyd](https://github.com/miamiww/knightsFU)
- - [Alex and Ripley](https://github.com/apenman/CCI/tree/master/28jan)
+
+- [Christian and Sea](https://github.com/chriscast88/jan28)
