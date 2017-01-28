@@ -2,7 +2,7 @@ const food = {
   stefano: 'spicy chicken arepas',
   alex: 'chupe soup',
   VCR: 'Plato Vegetariana',
-  shared: ['2 baskets yuca fries',],
+  shared: ['yuca fries', 'garlic yuca fries'],
   christian : 'N/A - watching my lady figure',
   alden: 'sweet yellow shuli arepa',
   tamara: [
